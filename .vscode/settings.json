@@ -1,0 +1,5 @@
+{
+        "python.pythonPath": "D:\\mechanical\\semester 5\\data science\\venv\\python.exe",
+        "python.terminal.activateEnvironment": true,
+        "#terminal.integrated.defaultProfile.windows#":"$(terminal-cmd) Command Prompt\n- path: C:\\WINDOWS\\System32\\cmd.exe\n- args: []"
+}
